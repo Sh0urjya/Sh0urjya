@@ -2,7 +2,7 @@
 <h1> Hello there..! <img src="https://github.com/Sh0urjya/Sh0urjya/blob/master/Hi.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Sh0urjya alt=Sh0urjya> </p>
 
-**🔭 I’m currently working in a company named Allied Media(<a href="https://www.baar.ai"><b>Company Website</b> </a>
+**🔭 I’m currently working in a company named Allied Media(<a href="https://www.baar.ai"><b>Company Website)</b> </a>
 <br>
 <br>
 **✨ Technologies currently using** <br>
