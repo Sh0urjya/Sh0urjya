@@ -35,16 +35,16 @@
 <br>
 <br> 
   <a href="https://in.linkedin.com/in/sh0urjya/" target="_blank">
-   <img align="left" alt="Sh0urjya Ghosh | Linkedin" width="24px" src="https://github.com/Sh0urjya/Sh0urjya/blob/master/Linkedin.svg" />
+   <img align="left" alt="Sh0urjya Ghosh | Linkedin" width="24px" src="https://github.com/Sh0urjya/Sh0urjya/blob/main/Linkedin.svg" />
   </a>
   <a href="mailto:shourjyaghosh.2@gmail.com" target="_blank">
-    <img align="left" alt="Shourjya Ghosh | Gmail" width="26px" src="https://github.com/Sh0urjya/Sh0urjya/blob/master/Gmail.svg" />
+    <img align="left" alt="Shourjya Ghosh | Gmail" width="26px" src="https://github.com/Sh0urjya/Sh0urjya/blob/main/Gmail.svg" />
   </a>
   <a href="https://twitter.com/Shourjya_G" target="_blank">
-    <img align="left" alt="Shourjya Ghosh | Twitter" width="26px" src="https://github.com/Sh0urjya/Sh0urjya/blob/master/Twitter.svg" />
+    <img align="left" alt="Shourjya Ghosh | Twitter" width="26px" src="https://github.com/Sh0urjya/Sh0urjya/blob/main/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/chicken_kosha/" target="_blank">
-    <img align="left" alt="Shourjya Ghosh | Instagram" width="24px" src="https://github.com/Sh0urjya/Sh0urjya/blob/master/Instagram.svg"  />
+    <img align="left" alt="Shourjya Ghosh | Instagram" width="24px" src="https://github.com/Sh0urjya/Sh0urjya/blob/main/Instagram.svg"  />
   </a>
 
 
