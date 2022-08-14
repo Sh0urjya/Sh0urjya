@@ -14,17 +14,18 @@
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <br>
 <br>
 <br>
 **🌱 Looking forward to learn:** <br>
 <br>
+<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
 <br>
 <br>
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=Sh0urjya&show_icons=true&hide_border=true)
@@ -46,7 +47,9 @@
   <a href="https://www.instagram.com/chicken_kosha/" target="_blank">
     <img align="left" alt="Shourjya Ghosh | Instagram" width="24px" src="https://github.com/Sh0urjya/Sh0urjya/blob/main/Instagram.svg"  />
   </a>
-
+  <a href="mailto:shourjya@proton.me" target="_blank">
+    <img align="left" alt="Shourjya Ghosh | Proton Mail" width="24px" src="https://github.com/Sh0urjya/Sh0urjya/blob/main/proton.png"  />
+  </a>
 
 <!--
 **Visitor Count :**
